@@ -38,12 +38,13 @@ namespace Aplication.Vehicle
                     var list = await _context.Vehicle.ToListAsync();
 
                     var listDto = _mapper.Map<List<Domain.Entities.Vehicle>, List<Domain.Dtos.VehicleDto>>(list);
-
+                    Responce.TotalRecords = list.Count;
                     Responce.ObjResult = listDto;
                     Responce.Result = Domain.Response.Message.Result.Ok;
                 }
                 catch (Exception ex)
                 {
+                    Responce.TotalRecords = 0;
                     Responce.ObjResult = null;
                     Responce.Result = Domain.Response.Message.Result.Error;
                     Responce.Message = "Ocurrio un error   " + ex.Message;

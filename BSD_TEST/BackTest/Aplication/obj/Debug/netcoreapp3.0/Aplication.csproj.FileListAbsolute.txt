@@ -11,3 +11,16 @@ D:\BSD_TEST\Back\BackTest\Aplication\obj\Debug\netcoreapp3.0\Aplication.Assembly
 D:\BSD_TEST\Back\BackTest\Aplication\obj\Debug\netcoreapp3.0\Aplication.csproj.CopyComplete
 D:\BSD_TEST\Back\BackTest\Aplication\obj\Debug\netcoreapp3.0\Aplication.dll
 D:\BSD_TEST\Back\BackTest\Aplication\obj\Debug\netcoreapp3.0\Aplication.pdb
+D:\BSD_TEST\TEST\BSD_TEST\BackTest\Aplication\bin\Debug\netcoreapp3.0\Aplication.deps.json
+D:\BSD_TEST\TEST\BSD_TEST\BackTest\Aplication\bin\Debug\netcoreapp3.0\Aplication.dll
+D:\BSD_TEST\TEST\BSD_TEST\BackTest\Aplication\bin\Debug\netcoreapp3.0\Aplication.pdb
+D:\BSD_TEST\TEST\BSD_TEST\BackTest\Aplication\bin\Debug\netcoreapp3.0\Domain.dll
+D:\BSD_TEST\TEST\BSD_TEST\BackTest\Aplication\bin\Debug\netcoreapp3.0\Persistence.dll
+D:\BSD_TEST\TEST\BSD_TEST\BackTest\Aplication\bin\Debug\netcoreapp3.0\Domain.pdb
+D:\BSD_TEST\TEST\BSD_TEST\BackTest\Aplication\bin\Debug\netcoreapp3.0\Persistence.pdb
+D:\BSD_TEST\TEST\BSD_TEST\BackTest\Aplication\obj\Debug\netcoreapp3.0\Aplication.csprojAssemblyReference.cache
+D:\BSD_TEST\TEST\BSD_TEST\BackTest\Aplication\obj\Debug\netcoreapp3.0\Aplication.AssemblyInfoInputs.cache
+D:\BSD_TEST\TEST\BSD_TEST\BackTest\Aplication\obj\Debug\netcoreapp3.0\Aplication.AssemblyInfo.cs
+D:\BSD_TEST\TEST\BSD_TEST\BackTest\Aplication\obj\Debug\netcoreapp3.0\Aplication.csproj.CopyComplete
+D:\BSD_TEST\TEST\BSD_TEST\BackTest\Aplication\obj\Debug\netcoreapp3.0\Aplication.dll
+D:\BSD_TEST\TEST\BSD_TEST\BackTest\Aplication\obj\Debug\netcoreapp3.0\Aplication.pdb

@@ -9,5 +9,6 @@ namespace Domain.Response
         public T ObjResult { get; set; }
         public string Message { get; set; }
         public string Result { get; set; }
+        public double TotalRecords{ get; set; }
     }
 }

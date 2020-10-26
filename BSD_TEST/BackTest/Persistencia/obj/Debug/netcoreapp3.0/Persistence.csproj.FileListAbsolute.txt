@@ -1,0 +1,11 @@
+D:\BSD_TEST\Back\BackTest\Persistencia\bin\Debug\netcoreapp3.0\Persistence.deps.json
+D:\BSD_TEST\Back\BackTest\Persistencia\bin\Debug\netcoreapp3.0\Persistence.dll
+D:\BSD_TEST\Back\BackTest\Persistencia\bin\Debug\netcoreapp3.0\Persistence.pdb
+D:\BSD_TEST\Back\BackTest\Persistencia\bin\Debug\netcoreapp3.0\Domain.dll
+D:\BSD_TEST\Back\BackTest\Persistencia\bin\Debug\netcoreapp3.0\Domain.pdb
+D:\BSD_TEST\Back\BackTest\Persistencia\obj\Debug\netcoreapp3.0\Persistence.csprojAssemblyReference.cache
+D:\BSD_TEST\Back\BackTest\Persistencia\obj\Debug\netcoreapp3.0\Persistence.AssemblyInfoInputs.cache
+D:\BSD_TEST\Back\BackTest\Persistencia\obj\Debug\netcoreapp3.0\Persistence.AssemblyInfo.cs
+D:\BSD_TEST\Back\BackTest\Persistencia\obj\Debug\netcoreapp3.0\Persistence.csproj.CopyComplete
+D:\BSD_TEST\Back\BackTest\Persistencia\obj\Debug\netcoreapp3.0\Persistence.dll
+D:\BSD_TEST\Back\BackTest\Persistencia\obj\Debug\netcoreapp3.0\Persistence.pdb

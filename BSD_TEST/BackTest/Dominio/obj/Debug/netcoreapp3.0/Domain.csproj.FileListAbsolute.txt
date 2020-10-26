@@ -1,0 +1,8 @@
+D:\BSD_TEST\Back\BackTest\Dominio\bin\Debug\netcoreapp3.0\Domain.deps.json
+D:\BSD_TEST\Back\BackTest\Dominio\bin\Debug\netcoreapp3.0\Domain.dll
+D:\BSD_TEST\Back\BackTest\Dominio\bin\Debug\netcoreapp3.0\Domain.pdb
+D:\BSD_TEST\Back\BackTest\Dominio\obj\Debug\netcoreapp3.0\Domain.csprojAssemblyReference.cache
+D:\BSD_TEST\Back\BackTest\Dominio\obj\Debug\netcoreapp3.0\Domain.AssemblyInfoInputs.cache
+D:\BSD_TEST\Back\BackTest\Dominio\obj\Debug\netcoreapp3.0\Domain.AssemblyInfo.cs
+D:\BSD_TEST\Back\BackTest\Dominio\obj\Debug\netcoreapp3.0\Domain.dll
+D:\BSD_TEST\Back\BackTest\Dominio\obj\Debug\netcoreapp3.0\Domain.pdb
